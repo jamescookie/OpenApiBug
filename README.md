@@ -19,3 +19,7 @@
 - [https://www.openapis.org](https://www.openapis.org)
 
 
+Raised as bug: https://github.com/micronaut-projects/micronaut-openapi/issues/900
+
+But is it https://github.com/OpenAPITools/openapi-generator/issues instead?
+
